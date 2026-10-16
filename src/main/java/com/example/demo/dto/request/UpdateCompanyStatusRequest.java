@@ -1,0 +1,2 @@
+package com.example.demo.dto.request;
+public record UpdateCompanyStatusRequest(boolean active) { }
